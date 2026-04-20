@@ -1,0 +1,58 @@
+nav,ul,li,a{
+    display:flex;
+    gap: 80px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:rgb(32, 32, 116);  
+}
+body{
+    margin: 0px;
+    background-color: rgb(198, 240, 174); 
+    color: rgb(83, 5, 5);
+    text-align: center;
+}
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(100, 55, 179);
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    text-shadow: 1px 1px 1px blue;
+}
+footer{
+    color: rgb(254, 254, 254);
+    background-color: rgb(32, 32, 116);
+    Padding: 10px;
+    font-size: 15px;
+    margin-top: 50px
+}
+
+form{
+    Margin: auto;
+}
+a:hover{
+    color:#f2c603
+}
+
+button{
+    background-color: white;
+    color: black;
+    
+}
+
+input{
+    background-color: white;
+    color: black;
+    box-shadow: 1px 1px 1px rgb(0, 0, 0); 
+}
+
+select{
+    background-color: white;
+    color: black;
+    box-shadow: 1px 1px 1px;
+}
+textarea{
+    background-color: white;
+    color: black;
+    box-shadow: 1px 1px 1px;
+}
